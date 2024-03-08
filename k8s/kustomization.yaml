@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: testejcs/gitops
-  newTag: newtag
+  newTag: newTag
